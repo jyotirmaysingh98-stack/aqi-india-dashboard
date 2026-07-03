@@ -10,9 +10,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 
-# ==========================================
+#   ==========================================
 # PAGE CONFIG & STYLING (Premium Aesthetics)
-# ==========================================
+#   ==========================================
 st.set_page_config(
     page_title="AQI India — Pollution Intelligence Dashboard",
     page_icon="🍃",
