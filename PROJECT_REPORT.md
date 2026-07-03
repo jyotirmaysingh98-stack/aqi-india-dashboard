@@ -8,7 +8,6 @@
 * **Team Members:**
   * **Krishna Agarwal**
   * **Jyotirmay Singh**
-  * **Prakhar Goel**
 * **Project Repository (GitHub):** [https://github.com/Krishna-Agarwal04/aqi-india-dashboard](https://github.com/Krishna-Agarwal04/aqi-india-dashboard)
 * **Live Web Application (Streamlit Cloud):** [https://krishna-agarwal04-aqi-india-dashboard-dashboard.streamlit.app](https://krishna-agarwal04-aqi-india-dashboard-dashboard.streamlit.app)
 
